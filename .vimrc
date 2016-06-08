@@ -233,6 +233,7 @@
     set list
     set listchars=tab:›\ ,trail:•,extends:#,nbsp:. " Highlight problematic whitespace
 
+    set colorcolumn=72              " Highlight text-column at 72 chars
 " }
 
 " Formatting {
